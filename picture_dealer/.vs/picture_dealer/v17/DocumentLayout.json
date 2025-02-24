@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\workspacce\\c\u002B\u002B3 shang\\picture_dealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B737A87E-0581-49FB-AA91-EBE8AB9DC270}|picture_dealer\\picture_dealer.csproj|e:\\workspacce\\c\u002B\u002B3 shang\\picture_dealer\\picture_dealer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737A87E-0581-49FB-AA91-EBE8AB9DC270}|picture_dealer\\picture_dealer.csproj|solutionrelative:picture_dealer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\workspacce\\c\u002B\u002B3 shang\\picture_dealer\\picture_dealer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "picture_dealer\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\workspacce\\c\u002B\u002B3 shang\\picture_dealer\\picture_dealer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "picture_dealer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:59:39.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
